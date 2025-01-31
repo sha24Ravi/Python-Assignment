@@ -7,3 +7,4 @@ seaborn
 plotly
 pycountry
 matplot
+aiohttp
