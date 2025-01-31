@@ -1,9 +1,9 @@
 import streamlit as st
 import sys
 import os 
-import src
 sys.path.append(os.pardir)
 sys.path.append(os.path.join(os.pardir, os.pardir))
+import src
 from src.Data_Transform.data_fetching import get_network_data,get_network_by_country,get_network_data_for_average
 from src.Data_Metrics.data_visulization import plot_station_count, generate_summary_stats,pie_chart_by_country
 from src.exception import CustomeException
