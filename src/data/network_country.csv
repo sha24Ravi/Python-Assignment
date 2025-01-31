@@ -1,0 +1,794 @@
+name,city,country
+Abu Dhabi Careem BIKE,Abu Dhabi,AE
+Accès Vélo,Saguenay,CA
+Aksu,阿克苏市 (Aksu City),CN
+Alba,Alba,IT
+AlbaBici,Albacete,ES
+AlGira,Almeirim,PT
+Almatybike,Almaty,KZ
+Alsa nextbike León,León,ES
+Ambici,Badalona,ES
+Ambici,Castelldefels,ES
+Ambici,Cornellà de Llobregat,ES
+Ambici,El Prat de Llobregat,ES
+Ambici,Esplugues de Llobregat,ES
+Ambici,Gavà,ES
+Ambici,Molins de Rei,ES
+Ambici,Sant Boi de Llobregat,ES
+Ambici,Sant Joan Despí,ES
+Ambici,Sant Just Desvern,ES
+Ambici,Santa Coloma de Gramenet,ES
+Ambici,Viladecans,ES
+Andria in Bici,Andria,IT
+Aral,阿拉尔市 (Aral),CN
+ARbike,Arezzo,IT
+Arriva,Nitra,SK
+ARVAL,Scandicci,IT
+Ascoli Piceno,Ascoli Piceno,IT
+AthensBikes,Athens,GR
+ATX MetroBike,"Austin, TX",US
+AuxR_M le vélo,Auxerre,FR
+àVélo,Québec,CA
+Aventura BCycle,"Aventura, FL",US
+Avilés en Bici,Avilés,ES
+AW-bike Ahrweiler,Ahrweiler,DE
+Baksi,Antalya,TR
+Çabis,Çanakkale,TR
+Nilesplit,Nilüfer,TR
+Batumvelo,Batumi,GE
+Bay Wheels,"San Francisco Bay Area, CA",US
+Pedaleando por Aller (BeALLER),Aller,ES
+BelfastBikes,Belfast,GB
+Bentonville BCycle,"Bentonville, AR",US
+Bysykkel,Bergen,NO
+Bergisches e-Bike,Bergisches e-Bike,DE
+"Beryl - Bournemouth, Christchurch and Poole","Bournemouth, Christchurch and Poole",GB
+Beryl - Brighton,Brighton,GB
+Beryl - Cornwall,Cornwall,GB
+"Beryl - Dorchester, Weymouth and Portland","Dorchester, Weymouth and Portland",GB
+Beryl - Eastleigh,Eastleigh,GB
+Beryl - Greater Manchester,Greater Manchester,GB
+Beryl - Guildford,Guildford,GB
+Beryl - Hereford,Hereford,GB
+Beryl - Hertsmere,Hertsmere,GB
+Beryl - Leeds,Leeds,GB
+Beryl - Norwich,Norwich,GB
+Beryl - Plymouth,Plymouth,GB
+Beryl - Stevenage,Stevenage,GB
+Beryl - Watford,Watford,GB
+Beryl - West Midlands,West Midlands,GB
+Beryl - Worcester,Worcester,GB
+BIA,Ovar,PT
+Bianzone in Bici,Bianzone,IT
+BiBa,Badajoz,ES
+BIBO,Boadilla del Monte,ES
+Bici Bolzano,Bolzano,IT
+BICI&CO,Como,IT
+BiciFerrolTerra,Ferrol - Narón,ES
+Bici in Busto,Busto Arsizio,IT
+Bici Perugia,Perugia,IT
+BiciAlcázar,Alcázar de San Juan,ES
+BiciArousa,A Illa de Arousa,ES
+biciArteixo,Arteixo,ES
+BiciBur,Burgos,ES
+Bicicas,Castelló de la Plana,ES
+Bicicletar,Fortaleza,BR
+Bicicoruña,A Coruña,ES
+Bici Pública Cuenca,Cuenca,EC
+Bicielx,Elx,ES
+Bicikelj,Ljubljana,SI
+BiciLog,Logroño,ES
+BiciMAD,Madrid,ES
+bicimia,Brescia,IT
+BiciMislata,Mislata,ES
+Bicincittà,Acquarica del Capo,IT
+Bicincittà,Acquaviva delle fonti,IT
+Bicincittà,Alghero,IT
+Bicincittà,Assemini,IT
+Bicincittà,Borgarello,IT
+Bicincittà,Brancaleone,IT
+Bicincittà,Carrara,IT
+Bicincittà,Casaletto Spartano,IT
+Bicincittà,Castel Guelfo di Bologna,IT
+Mi Muovo in bici,Cesena,IT
+Bicincittà,Cisterna di Latina,IT
+Costa Blu,Montesilvano,IT
+Bicincittà,Elmas,IT
+Bicincittà,Parco Nazionale del Circeo,IT
+Bicincittà,Ente Parco Montemarcello Magra,IT
+Bicincittà,Parco naturale Migliarino San Rossore Massaciuccoli,IT
+Mi Muovo in Bici,Forlì,IT
+Bicincittà,Gaeta,IT
+Bicincittà,Gallipoli,IT
+Mi Muovo in bici,Imola,IT
+Bicincittà,Lavis,IT
+Bicincittà,Livorno,IT
+Bicincittà,Mantova,IT
+Bici in Massa,Massa,IT
+Bicincittà,Mezzocorona,IT
+Bicincittà,Mezzolombardo,IT
+Mi Muovo in bici,Modena,IT
+Bicincittà,Monserrato,IT
+Bicincittà,Montecatini Terme,IT
+Sipedala,Monteriggioni,IT
+Bicincittà,Monza,IT
+Bicincittà,Morigerati,IT
+Bicincittà,Parco dei Colli di Bergamo,IT
+Bicincittà,Parco Naturale Molentargius - Saline,IT
+PisTA!,Taranto,IT
+Bicincittà,Pizzighettone e Formigara,IT
+Bicincittà,Porto Torres,IT
+Bicincittà,Rivarolo Canavese,IT
+Bicincittà,San Donato Milanese,IT
+Mi Muovo in Bici,San Giovanni in Persiceto,IT
+Mi Muovo in Bici,San Lazzaro di Savena,IT
+Bicincittà,San Michele All'adige,IT
+Bicincittà,San Teodoro,IT
+Bicincittà,Scafati,IT
+Mi Muovo in Bici,Scandiano,IT
+Bicincittà,Selargius,IT
+Bicincittà,Siena,IT
+Bicincittà,TV,ME
+Bicincittà,Tortolì,IT
+Bicincittà,Treviglio,IT
+BiTS,Trieste,IT
+Bicincittà,Vicolungo,IT
+Bicing,Barcelona,ES
+BicinQuartucciu,Quartucciu,IT
+BiciNRivas,Rivas-Vaciamadrid,ES
+Bicipalma,Palma,ES
+Bicisanvi,Sant Vicent del Raspeig,ES
+BiciSchio,Schio,IT
+biclis,Leiria,PT
+Bicloo,Nantes,FR
+Bicykle za dobré skutky,Prešov,SK
+Biella,Biella,IT
+BiGi,Bergamo,IT
+Bike Chattanooga,"Chattanooga, TN",US
+BikeCuritiba,Curitiba,BR
+Bike Itaú Nordelta,Nordelta,AR
+BikeBrasilia,Brasília,BR
+BikeKia,Žilina,SK
+BikeMi,Milano,IT
+BikEnmedio,Campoo de Enmedio,ES
+BikePOA,Porto Alegre,BR
+BikeRecife,Recife,BR
+BikeRio,Rio de Janeiro,BR
+BikeSalvador,Salvador,BR
+BikeSampa,São Paulo,BR
+BikeSantiago,Santiago,CL
+BikeSantos,Santos,BR
+Peninsula Papagayo Bike-Share,Península de Papagayo,CR
+BIKETOWN,"Portland, OR",US
+Biketown WHQ (Nike campus),"Beaverton, OR",US
+Bydgoski rower aglomeracyjny,Bydgoszcz,PL
+Verona Bike,Verona,IT
+Bike Vitória,Vitória,BR
+BIKI,Valladolid,ES
+BilbonBizi,Bilbao,ES
+BisPArks BCycle,"Bismarck, ND",US
+Bixi,"Montréal, QC",CA
+Bike Share Toronto,"Toronto, ON",CA
+Bizi,Zaragoza,ES
+Bizkaibizi,Barakaldo,ES
+Bizkaibizi,Berango,ES
+Bizkaibizi,Bilbao,ES
+Bizkaibizi,Erandio,ES
+Bizkaibizi,getxo,ES
+Bizkaibizi,Leioa,ES
+Bizkaibizi,Portugalete,ES
+Bizkaibizi,Santurtzi,ES
+Bizkaibizi,Sestao,ES
+BL bike,Banja Luka,BA
+Blue Bikes,"Boston, MA",US
+Bora!,CIM Viseu Dão-Lafões,PT
+Boulder BCycle,"Boulder, CO",US
+BrindisiByBike,Brindisi,IT
+Broward BCycle,"Fort Lauderdale, FL",US
+MOL Bubi,Budapest,HU
+Bublr Bikes,"Milwaukee, WI",US
+BUGA,Aveiro,PT
+Burgenland,Neusiedler See,AT
+Bysykkel,Lillestrøm,NO
+C.vélo,Clermont-Ferrand,FR
+Cagliari,Cagliari,IT
+Call-A-Bike,Berlin,DE
+Call-A-Bike,Darmstadt,DE
+Call-A-Bike,Frankfurt,DE
+Call-A-Bike,Köln,DE
+Call-A-Bike,München,DE
+Capital BikeShare,"Washington, DC",US
+Carbonia,Carbonia,IT
+carvelo eCargo-Bike Sharing,Switzerland,CH
+Cascavel Vai de Bici,Cascavel,BR
+Cassano d'Adda,Cassano d'Adda,IT
+Castellucchio,Castellucchio,IT
+Chantrerie VLS (Captain Bike),"La Chantrerie, Nantes",FR
+Charlotte Joyrides,"Charlotte, NC",US
+Chartered Bike,Bhopal,IN
+Chartered Bike,Bilaspur,IN
+Chartered Bike,Moradabad,IN
+Chartered Bike,Prayagraj,IN
+Chartered Bike,Rajarhat New Town,IN
+Chartered Bike,Ranchi,IN
+Chartered Bike,Srinagar,IN
+Chartered Bike,Surat,IN
+Chivasso,Chivasso,IT
+Choletbus 2 roues,Cholet,FR
+Ciclopi,Pisa,IT
+Cincy Red Bike,"Cincinnati, OH",US
+Citi Bike Miami,"Miami, FL",US
+Citi Bike,"New York, NY",US
+CityBike Lima,Lima,PE
+city bike Linz,Linz,AT
+City bikes,Helsinki,FI
+Civitavecchia,Civitavecchia,IT
+Clemson University Bike Share,"Clemson, SC",US
+Cluj Bike,Cluj-Napoca,RO
+Co-bikes,Exeter,GB
+CoGo,"Columbus, OH",US
+TFI Bikes,Cork,IE
+Cuneo,Cuneo,IT
+Cycl’AM,Ardenne Métropole,FR
+CYCLOlibre,Carcassonne,FR
+Cyclopolis,Aigialeia,GR
+Cyclopolis,Αrxaia Olympia,GR
+Cyclopolis,Chania,GR
+Cyclopolis,Edessa,GR
+Cyclopolis,Florina,GR
+Cyclopolis,Igoumenitsa,GR
+Cyclopolis,Kιato,GR
+Cyclopolis,Limnos,GR
+Cyclopolis,Loutraki,GR
+Cyclopolis,Marathon,GR
+Cyclopolis,Maroussi,GR
+Cyclopolis,Μoschato-Tavros,GR
+Cyclopolis,Nafplio,GR
+Cyclopolis,Νea Smyrni,GR
+Cyclopolis,Rhodes,GR
+Cyclopolis,Syros,GR
+Cyclovis,Soissons,FR
+Cykl,Wageningen,NL
+Dbizi,Donostia/San Sebastián,ES
+DCS Bike,Mannheim,DE
+Lyft,"Denver, CO",US
+Des Moines BCycle,"Des Moines, IA",US
+DiviaVélodi,Dijon,FR
+Divvy,"Chicago, IL",US
+Docomo Bike Share Aichi,愛知県 (Aichi),JP
+Docomo Bike Share Fukui,福井県 (Fukui),JP
+Docomo Bike Share Gifu,岐阜県 (Gifu),JP
+Docomo Bike Share Hiroshima,広島県 (Hiroshima),JP
+Docomo Bike Share Hyōgo,兵庫県 (Hyōgo),JP
+Docomo Bike Share Ibaraki,茨城県 (Ibaraki),JP
+Docomo Bike Share Ishikawa,石川県 (Ishikawa),JP
+Docomo Bike Share Kagoshima,鹿児島県 (Kagoshima),JP
+Docomo Bike Share Kanagawa,神奈川県 (Kanagawa),JP
+Docomo Bike Share Kyoto,京都府 (Kyoto),JP
+Docomo Bike Share Miyagi,茨城県 (Miyagi),JP
+Docomo Bike Share Nara,奈良県 (Nara),JP
+Docomo Bike Share Niigata,新潟県 (Niigata),JP
+Docomo Bike Share Ōita,大分県 (Ōita),JP
+Docomo Bike Share Okayama,岡山県 (Okayama),JP
+Docomo Bike Share Okinawa,沖縄県 (Okinawa),JP
+Docomo Bike Share Osaka,大阪府 (Osaka),JP
+Docomo Bike Share Shiga,滋賀県 (Shiga),JP
+Docomo Bike Share Tokyo,Tokyo,JP
+Docomo Bike Share Yamanashi,山梨県 (Yamanashi),JP
+Donkey Republic - Gent,Gent,BE
+Dubai Careem BIKE,Dubai,AE
+dublinbikes,Dublin,IE
+e.motion,Rovereto,IT
+e.motion,Trento,IT
+EasyBike,Didymoteicho,GR
+EasyBike,Glyfada,GR
+EasyBike,Igoumenitsa,GR
+EasyBike,Ioannina,GR
+EasyBike,Irakleio,GR
+EasyBike,Karditsa,GR
+EasyBike,Kinouria,GR
+EasyBike,Komotini,GR
+EasyBike,Mani,GR
+EasyBike,Patra,GR
+EasyBike,Rethymno,GR
+EasyBike,Samos,GR
+EcoBici,Cd de México,MX
+Ecobici,Buenos Aires,AR
+EDEKA Grünheide,Grünheide (Mark),DE
+Eifel e-Bike,Eifel e-Bike,DE
+El Paso BCycle,"El Paso, TX",US
+eMobi (Croatia),Osijek,HR
+EnCicla,Medellin,CO
+Enna,Enna,IT
+어울링 (Eoulling),세종 (Sejong),KR
+Fächerrad,Karlsruhe,DE
+Famagusta Bike Share,Famagusta,CY
+Fa.Mo.Se,Senigallia,IT
+Figas,Figueira da Foz,PT
+Fölläri bikes,Turku,FI
+Fort Worth Bike Sharing,"Fort Worth, TX",US
+FRee Bike sharing,Frosinone,IT
+Frelo,Freiburg,DE
+TFI Bikes,Galway,IE
+Ganxeta,Reus,ES
+Gbici,Getafe,ES
+Gijón Bici,Gijón,ES
+Gimme Bike,Varese,IT
+Gira,Lisbon,PT
+Girocleta,Girona,ES
+Biki,Honolulu,US
+GoodBike,Padova,IT
+Nextbike,Drniš,HR
+Grad Ivanić-Grad,Ivanic Grad,HR
+Grad Karlovac,Karlovac,HR
+Grad Makarska,Makarska,HR
+Grad Metković,Metković,HR
+Grad Šibenik,Šibenik,HR
+Grad Sisak,Sisak,HR
+Grad Slavonski Brod,Slavonski Brod,HR
+Grad Split (Croatia),Split,HR
+Grad Split (Croatia),Općina Hrvace,HR
+Grad Split (Croatia),Općina Klis,HR
+Grad Split (Croatia),Općina Otok Dalmatinski,HR
+Grad Split (Croatia),Podstrana,HR
+Grad Split (Croatia),Sinj,HR
+Grad Split (Croatia),Solin,HR
+Grad Split (Croatia),Trogir,HR
+Grad Velika Gorica,Velika Gorica,HR
+Grad Vukovar (Croatia),Vukovar,HR
+Grad Zadar,Zadar,HR
+Grad Zaprešić (Croatia),Zaprešić,HR
+Green Bike,Aruba,AW
+GREENbike,Salt Lake City,US
+Greenville BCycle,"Greenville, SC",US
+StadtRad Greifswald,Greifswald (StadtRad),DE
+HELLO CYCLING Aichi,愛知県 (Aichi),JP
+HELLO CYCLING Chiba,千葉県 (Chiba),JP
+HELLO CYCLING Ehime,愛媛県 (Ehime),JP
+HELLO CYCLING Fukuoka,福岡県 (Fukuoka),JP
+HELLO CYCLING Gifu,岐阜県 (Gifu),JP
+HELLO CYCLING Hiroshima,広島県 (Hiroshima),JP
+HELLO CYCLING Hyougo,兵庫県 (Hyougo),JP
+HELLO CYCLING Ibaraki,茨城県 (Ibaraki),JP
+HELLO CYCLING Iwate,岩手県 (Iwate),JP
+HELLO CYCLING Kagawa,香川県 (Kagawa),JP
+HELLO CYCLING Kanagawa,神奈川県 (Kanagawa),JP
+HELLO CYCLING Kumamoto,熊本県 (Kumamoto),JP
+HELLO CYCLING Kyoto,京都府 (Kyoto),JP
+HELLO CYCLING Nagano,長野県 (Nagano),JP
+HELLO CYCLING Nara,奈良県 (Nara),JP
+HELLO CYCLING Okinawa,沖縄県 (Okinawa),JP
+HELLO CYCLING Osaka,大阪府 (Osaka),JP
+HELLO CYCLING Saga,佐賀県 (Saga),JP
+HELLO CYCLING Saitama,埼玉県 (Saitama),JP
+HELLO CYCLING Shizuoka,静岡県 (Shizuoka),JP
+HELLO CYCLING Tochigi,栃木県 (Tochigi),JP
+HELLO CYCLING Tokyo,東京都 (Tokyo),JP
+Heraeus Hanau,Hanau,DE
+Hi-Bike Fort William,Fort William,GB
+Hi-Bike Inverness,Inverness,GB
+Hibike,Kailua-Kona,US
+ibizi,Ibiza-City,ES
+IDEcycle,Pau,FR
+Indego,"Philadelphia, PA",US
+Indiana Pacers Bikeshare,"Indianapolis, IN",US
+Smart Bikes by Infralobo,Vale do Lobo,PT
+Integrabike,Sorocaba,BR
+Jackson County BCycle,"Jackson, MI",US
+Nextbike,Jastrebarsko,HR
+JesinBici,Jesi,IT
+JOCO New York,New York,US
+Karu'Vélo,Pointe-à-Pitre,FR
+Bysykkelen,Rogaland,NO
+Komornicki System Rowerowy Poland,Komorniki,PL
+Kotobike,京都 (Kyoto),JP
+Kuitun Bike,奎屯市 (Kuitun),CN
+KVB Rad,Köln,DE
+LastenVelo Freiburg,Freiburg,DE
+Le Marcel,Troyes,FR
+LeVélo,Marseille,FR
+LE vélo Star,Rennes,FR
+lecce,Lecce,IT
+Bicincittà,Lecco,IT
+LeLocleroule,Le Locle,CH
+Li bia velo,Namur,BE
+Libélo,Valence,FR
+TFI Bikes,Limerick,IE
+BikeLNK,"Lincoln, NE",US
+LinkBike,Penang,MY
+LonganoinBici,Barcellona Pozzo di Gotto,IT
+Lovélo Libre Service,Rouen,FR
+Lovesharing (Canary Islands),Fuerteventura,ES
+Lovesharing (Canary Islands),Gran Canaria,ES
+Lovesharing (Canary Islands),Lanzarote,ES
+LRM Lublin,Lublin,PL
+Lundahoj,Lund,SE
+Nextbike,Odessa,UA
+BCycle,"Madison, WI",US
+Malmö by bike,Malmö,SE
+Manerba in Bici,Manerba del Garda,IT
+Mar e Bici,Marciana Marina,IT
+Marseillan vélo libre-service,Marseillan,FR
+MBajk,Maribor,SI
+RGV BCycle,"McAllen, TX",US
+Medina Careem BIKE,Medina,SA
+Meglio in Bici,Cernusco sul Naviglio - Pioltello - Carugate,IT
+Mein konrad,Konstanz,DE
+meioB,Médio Tejo,PT
+Explore Bike Share,"Memphis, TN",US
+Metro Bike Share,"Los Angeles, CA",US
+metropolradruhr,Bochum,DE
+metropolradruhr,Bottrop,DE
+metropolradruhr,Dortmund,DE
+metropolradruhr,Duisburg,DE
+metropolradruhr,Essen,DE
+metropolradruhr,Gelsenkirchen,DE
+metropolradruhr,Hamm,DE
+metropolradruhr,Herne,DE
+metropolradruhr,Mülheim a.d.R.,DE
+metropolradruhr,Oberhausen,DE
+Metrorower,Górnośląsko-Zagłębiowska Metropolia,PL
+MIBICI,Guadalajara,MX
+Mi bici tu bici,Rosario,AR
+MIBISI,"Valencia, área metropolitana",ES
+Mi Muovo in Bici,Ferrara,IT
+MOBIbike,Dresden,DE
+Mobi,Vancouver,CA
+MoGo,"Detroit, MI",US
+MonaBike,Monaco,MC
+Monopoli BIKE,Monopoli,IT
+Movemix Bike,Halle (Saale),DE
+MuyBici,Murcia,ES
+meinRad MVG Mainz,Mainz,DE
+MV-Rad,Anklam,DE
+MV-Rad,MV-Rad,DE
+Nashville BCycle,"Nashville, TN",US
+nbici,Pamplona,ES
+Neuchâtelroule,Neuchâtel,CH
+Nextbike,10vorWien,AT
+Nextbike,Auckland Waterfront,NZ
+nextbike Bergamo,Bergamo,IT
+Nextbike,Berlin,DE
+nextbike Berounsko,Berounsko,CZ
+meinSiggi,Bielefeld,DE
+Nextbike,Bonn,DE
+nextbike Brno,Brno,CZ
+nextbike Brno,Kuřim,CZ
+Nextbike,Cardiff,GB
+Nextbike,Christchurch,NZ
+Nextbike,Düsseldorf,DE
+nextbike Dvůr Králové,Dvůr Králové,CZ
+Nextbike,Ennetmoos,CH
+Nextbike,Erfurt,DE
+nextbike Romania,Focșani,RO
+nextbike Frýdek-Místek,Frýdek-Místek,CZ
+Nextbike,Gießen,DE
+Nextbike,Glasgow,GB
+Nextbike,Groß Enzersdorf,AT
+Nextbike,Gütersloh,DE
+nextbike Havířov,Havířov,CZ
+Nextbike,Hergiswil,CH
+nextbike Hodonín,Hodonín,CZ
+Nextbike,Hollabrunn,AT
+Nextbike,Horw,CH
+nextbike Hradec Králové,Hradec Králové,CZ
+Nextbike,Ivano Frankivsk,UA
+nextbike Jičín,Jičín,CZ
+nextbike Jihlava,Jihlava,CZ
+Nextbike,Kassel,DE
+nextbike Kladno,Kladno,CZ
+Nextbike,Klagenfurt,AT
+nextbike Kopřivnice,Kopřivnice,CZ
+nextbike Krnov,Krnov,CZ
+Nextbike,Leipzig,DE
+Nextbike,Limassol,CY
+Nextbike,Lippstadt,DE
+Nextbike,Luzern,CH
+Nextbike,Lviv,UA
+Nextbike,Malta,MT
+Nextbike,Marburg,DE
+nextbike Mladoboleslavsko,Mladá Boleslav,CZ
+nextbike Mladoboleslavsko,Mnichovo Hradiště,CZ
+Nextbike,Mödling,AT
+nextbike Most,Most,CZ
+Nextbike,Nicosia,CY
+Nextbike,Norderstedt,DE
+nextbike Nový Jičín,Nový Jičín,CZ
+Nextbike,Oberdorf,CH
+nextbike OlbramoviceVotice,Olbramovice/Votice,CZ
+OLi-Bike,Oldenburg,DE
+nextbike Olomouc,Olomouc,CZ
+nextbike Opava,Opava,CZ
+Nextbike Ortenaukreis,Ortenaukreis,DE
+nextbike Ostrava,Ostrava,CZ
+nextbike Ostrava,Hlučín,CZ
+nextbike Ostrava,Vřesina,CZ
+nextbike Pardubice,Pardubice,CZ
+nextbike Písek,Písek,CZ
+Nextbike,Potsdam,DE
+nextbike Praha,Praha,CZ
+nextbike Praha,Říčany,CZ
+nextbike Prerov,Prerov,CZ
+nextbike Prostejov,Prostejov,CZ
+Nextbike,Rüsselsheim am Main,DE
+nextbike Rychnovsko,Rychnovsko,CZ
+Nextbike,Sarajevo,BA
+Nextbike,Sarnen,CH
+Nextbike,Serfaus,AT
+Nextbike,Stans,CH
+Nextbike,Stansstad,CH
+Nextbike,Stirling,GB
+Nextbike,St.Pölten,AT
+Nextbike,Sursee,CH
+Nextbike,Thermenregion,AT
+nextbike Trutnov,Trutnov,CZ
+Nextbike,Tulln,AT
+Nextbike,Tuzla,BA
+nextbike Uherské Hradiště,Uherské Hradiště,CZ
+Nextbike,Surrey,GB
+BBK Klimabizi,Urdaibai,ES
+Nextbike,Vinnytsia,UA
+nextbike Vrchlabí,Vrchlabí,CZ
+Nextbike,Wachau,AT
+Nextbike,WienerWald,AT
+Nextbike,Wiesbaden,DE
+Nextbike,Wolfenschiessen,CH
+Nextbike,Wr.Neustadt,AT
+Nextbike,Würzburg,DE
+Nextbike,Zagreb,HR
+nextbike Zlín,Zlín,CZ
+Nibelungen-Bike,Braunschweig,DE
+Nicosia Bike Share,Nicosia,CY
+Nomago Bikes - GO2GO,Nova Gorica,SI
+GO2GO - Gorizia,Gorizia,IT
+Nomago Bikes - LJUBLJANA,Ljubljana,SI
+Nomago Bikes - PORTOROZ,Portorož,SI
+Nomago Bikes - ZANAPREJ,Zagorje ob Savi,SI
+NomagoBikes,Celje,SI
+NomagoBikes,Laško,SI
+NotoinBici,Noto,IT
+Novara,Novara,IT
+누비자 (Nubija),창원시 (Changwon),KR
+Oeynrad,Bad Oeynhausen,DE
+Olbia Bike,Olbia,IT
+Oleski Rower Miejski Poland,Olesno,PL
+Heartland BCycle,"Omaha, NE",US
+Ontibici,Ontinyent,ES
+Općina Brinje,Brinje,HR
+Općina Pitomača (Croatia),Pitomača,HR
+Optymo,Belfort,FR
+Bysykkel,Oslo,NO
+Comunità Montana Valli dell'Ossola,Santa Maria Maggiore - Malesco - Villette,IT
+OV-fiets,Nederland,NL
+Parkinbici,Parco Nazionale del Gargano,IT
+Mi Muovo in Bici,Parma,IT
+Passo Fundo Vai de Bici,Passo Fundo,BR
+Pavia in bici,Pavia,IT
+PeaceHealth Rides,"Eugene, OR",US
+Périvélo,Grand Périgueux,FR
+Les Petites Reines,Les Sables d'Olonne,FR
+Mi Muovo in Bici,Piacenza,IT
+PickeBike Aubonne,Aubonne,CH
+PickeBike Basel,Basel,CH
+PickeBike Fribourg,Fribourg,CH
+Pinerolo,Pinerolo,IT
+Piotrkowski Rower Miejski Poland,Piotrków Trybunalski,PL
+Pogoh,"Pittsburgh, PA",US
+Pobiedziski Rower Gminny Poland,Pobiedziska,PL
+Pombike,Pombal,PT
+Pordenone,Pordenone,IT
+Portofino Park and Bike,Santa Margherita Ligure - Portofino - Camogli,IT
+Prata Camportaccio,Prata Camportaccio,IT
+PubliBike Bern,Bern,CH
+PubliBike Fribourg,Fribourg,CH
+PubliBike Lausanne-Morges,Lausanne,CH
+PubliBike Région de Nyon,Nyon,CH
+PubliBike Sottoceneri (TI),Lugano,CH
+PubliBike Zürich,Zürich,CH
+Pun Pun Bike Share,Bangkok,TH
+Qrobici,Santiago de Querétaro,MX
+Graben - ready4green,Graben,DE
+Redding BCycle,"Redding, CA",US
+Reddy Bike Share,"Buffalo, NY",US
+Mi Muovo in Bici,Reggio Emilia,IT
+Regivelo,Kreuzlingen,CH
+HOPR,"Atlanta, GA",US
+mobic,REVG,DE
+Rietinbici,Rieti,IT
+Mi Muovo in Bici,Rimini,IT
+Rivibike,Riviera de São Lourenço,BR
+RMBikes,Rio Maior,PT
+Rower Powiatowy Sokołów Podlaski,Sokołów Podlaski,PL
+Rowerowe Łódzkie,Koluszki,PL
+Rowerowe Łódzkie,Kutno,PL
+Rowerowe Łódzkie,Łask,PL
+Rowerowe Łódzkie,Łódź,PL
+Rowerowe Łódzkie,Łowicz,PL
+Rowerowe Łódzkie,Pabianice,PL
+Rowerowe Łódzkie,Sieradz,PL
+Rowerowe Łódzkie,Skierniewice,PL
+Rowerowe Łódzkie,Zduńska Wola,PL
+Rowerowe Łódzkie,Zgierz,PL
+RSVG-Bike,RSVG,DE
+RTC Bike Share,"Las Vegas, NV",US
+Rubis'Vélo,Bourg-en-Bresse,FR
+RVA Bike Share,"Richmond, VA",US
+RVK,RVK e-Bike,DE
+Saluzzo,Saluzzo,IT
+SWell Cycle,"San Antonio, TX",US
+Santa Barbara BCycle,"Santa Barbara, CA",US
+Santa Cruz BCycle,"Santa Cruz, CA",US
+Sântana Velo,Sântana,RO
+Santander Cycles - Brunel,Brunel University,GB
+Santander Cycles,London,GB
+Santander Cycles MK,Milton Keynes,GB
+Santander Cycles,Swansea,GB
+Santander Mönchengladbach,Mönchengladbach,DE
+SAP Walldorf,Walldorf,DE
+Saturn,Saturn,RO
+Savigliano,Savigliano,IT
+Savona,Savona,IT
+SBP Quito,Quito,EC
+Scegli in Bici,Cremona,IT
+Sellero,Sellero,IT
+semo,Communauté d'agglomération Seine-Eure,FR
+SENICA BAJK,Senica,SK
+Seoul Bike 따릉이,Seoul,KR
+Sevici,Sevilla,ES
+Shymkentbike,Shymkent,KZ
+Sibiu Bike Share,Sibiu,RO
+Sitycleta,Las Palmas de Gran Canaria,ES
+SiXT,Rīga,LV
+Chełmski Rower,Chełm,PL
+Skrova Bysykkel,Skrova,NO
+Slatina Velo City,Slatina,RO
+Slovnaft BAjk,Bratislava,SK
+SoBi,"Hamilton, ON",CA
+SoBi,"Long Beach, CA",US
+Sondrio,Sondrio,IT
+Speziainbici,La Spezia,IT
+sprintRAD,Hannover,DE
+Sprottenflotte,Kiel,DE
+StadtRAD Hamburg,Hamburg,DE
+Stadtrad,Innsbruck,AT
+StadtRAD Lüneburg,Lüneburg,DE
+RegioRadStuttgart,Stuttgart,DE
+Hvar,Stari Grad,HR
+"Styr & Ställ (Sweden, Göteborg)",Göteborg,SE
+Summit Bike Share,"Park City, UT",US
+SWA Rad,Augsburg,DE
+System Roweru Gminnego Poland,Pielgrzymka,PL
+Tallinja Bike,Valletta - Malta - Gozo,MT
+Vélo tanlib,Niort,FR
+Tashu,대전 (Daejeon),KR
+Tel-O-Fun,"Tel Aviv-Yaffo, Giv'atayim, Ramat-Gan",IL
+Tembici,Bogotá,CO
+Tempo Vélo,Agen,FR
+Terni,Terni,IT
+ThessBike,Thessaloniki,GR
+Donkey Republic Thun,Thun,CH
+Ti Vélo,Landernau,FR
+Tigullionbike,Sestri Levante - Lavagna,IT
+Tirano in Bici,Tirano,IT
+Tarbes et Lourdes vls,"Tarbes, Lourdes",FR
+[TO]BIKE,Torino,IT
+TorrentBici,Torrent,ES
+Torvelo,Toruń,PL
+cyclocity,富山市,JP
+Tradate,Tradate,IT
+Treviso,Treviso,IT
+Trofinetes,Trofa,PT
+Bysykkel,Trondheim,NO
+TUeBICI,Santander,ES
+Tugo Bike Share,"Tucson, AZ",US
+Twisto vélo,Caen,FR
+Tychowski Rower Miejski,Tychowo,PL
+Udine,Udine,IT
+Ugento,Ugento,IT
+UsedomRad,Usedom,DE
+Ustica,Ustica,IT
+V³,Bordeaux,FR
+VAG_Rad,Nürnberg,DE
+VaiBike,Vilagarcía de Arousa,ES
+Valenbisi,Valencia,ES
+Valentine BCycle,"Valentine, NE",US
+Vél'in,Calais,FR
+Vélam,Amiens,FR
+Velect’in,Calais,FR
+Vélhop,Strasbourg,FR
+Vélib' Métropole,Paris,FR
+Vélibéo,Brive-la-Gaillarde,FR
+Vélitul,Laval,FR
+VéliVert,Saint-Étienne,FR
+Vélô,Toulouse,FR
+Velo Antwerpen,Antwerpen,BE
+Le Vélo Baulois,La Baule-Escoublac,FR
+Velo2,Cergy,FR
+VeloBaie,Saint-Brieuc,FR
+Velobike,Astana,KZ
+Velobike,Moscow,RU
+Velobike,Murmansk,RU
+Velobike,Nizhniy Novgorod,RU
+VéloCité,Besançon,FR
+Vélo'Cité,Laon,FR
+VéloCité,Mulhouse,FR
+Velocity,Aachen,DE
+Vélos d’Aquí,Argelès-sur-Mer,FR
+Veloh,Luxembourg,LU
+Vël'Ok,Esch-sur-alzette,LU
+Vélomagg,Montpellier,FR
+Vélo MAT,Saint-Malo,FR
+Vélo Modalis,Ligne TER Royan - Angoulême,FR
+Drobeta Velopark,Drobeta,RO
+VéloPartage,Genève,CH
+Vélo+/VéloTAO,Orléans,FR
+Vélopop,Avignon,FR
+vélOstan'lib,Nancy,FR
+Vélo'V,Lyon,FR
+VéloZef,Brest,FR
+vélYcéo,Saint-Nazaire,FR
+Venezia,Venezia,IT
+Vercelli,Vercelli,IT
+VerdeCiclos,Caldas de Reis,ES
+VETURILO 3.0,Warsaw,PL
+VIA Vélo,Val d'Ille-Aubigné,FR
+villo,Bruxelles,BE
+Cyclocity,Vilnius,LT
+Vilvolt,Epinal,FR
+VISA,Frankfurt,DE
+Vitelinhas,Fafe,PT
+V'Lille,Lille,FR
+VRN,Bensheim,DE
+VRN,Bürstadt,DE
+VRN,Eppelheim,DE
+VRN,Heidelberg,DE
+VRN,Heppenheim,DE
+VRN,Hockenheim,DE
+VRN,Kaiserslautern,DE
+VRN,Landau in der Pfalz,DE
+VRN,Ludwigshafen,DE
+VRN,Mannheim,DE
+VRN,Schwetzingen,DE
+VRN,Speyer,DE
+VRN,Weinheim,DE
+VRN,Worms,DE
+VVT REGIORAD Tirol,Ellmau,AT
+VVT REGIORAD Tirol,Kufstein,AT
+TFI Bikes,Waterford,IE
+WE-cycle,"Aspen, CO",US
+We Love bike,Lodi,IT
+westBike,Erkelenz,DE
+westBike,Geilenkirchen,DE
+westBike,Heinsberg,DE
+westBike,Hückelhoven,DE
+westBike,Wegberg,DE
+WESTcargo Bath,Bath,GB
+WESTcargo Bristol,Bristol,GB
+WhiteBikes,Bratislava,SK
+WienMobil Rad,Wien,AT
+WinsenRad,Winsen (Luhe),DE
+WK-Bike,Bremen,DE
+Wolf Ride Bike Share (Stony Brook University),Stony Brook,US
+WRM,Wrocław,PL
+wupsiRad Leverkusen,Leverkusen,DE
+Xi'an Public Bicycle,西安 (Xi'an),CN
+Yélo Vélo,La Rochelle,FR
+YouBike,台灣 Chiayi City,TW
+YouBike,新竹市 Hsinchu City,TW
+YouBike,新竹縣 Hsinchu County,TW
+YouBike,新竹科學工業園區 Hsinchu Science Park,TW
+YouBike,高雄市 Kaohsiung City,TW
+YouBike,台灣 Miaoli County,TW
+YouBike,新北市 New Taipei,TW
+YouBike,屏東縣 Pingtung County,TW
+YouBike,莆田市 (Putian City),CN
+YouBike,臺中市 Taichung City,TW
+YouBike,臺南市 Tainan City,TW
+YouBike,台北市 Taipei City,TW
+YouBike,桃園市 Taoyuan City,TW
+YOY - San Luis Potosi,San Luis Potosi,MX
+YOY - San Luis Potosi,Cancún,MX
+Donkey Republic Yverdon-les-Bains,Yverdon-les-Bains,CH
+ZébullO,Reims,FR
+Zena By Bike,Genova,IT
+Zoov,Paris Sud,FR
