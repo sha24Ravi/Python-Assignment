@@ -1,6 +1,5 @@
 Flask
 requests
-json
 dash
 pandas
 numpy
