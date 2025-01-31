@@ -9,4 +9,3 @@ pycountry
 matplotlib
 aiohttp
 tkinter
-pip install --upgrade pip
