@@ -18,11 +18,11 @@ def plot_station_count(processed_data):
     x=df['name']
     y=df['station_count']  
     plt.bar(x, y, color ='skyblue',
-        align='edge', width=0.3) 
-    plt.xticks(rotation=90, fontsize = 'small')
-    plt.xlabel('Number of Stations')
+        align='center', width=0.3) 
+    plt.xticks(rotation=60, fontsize = 'small')
+    plt.xlabel('Name of Network')
     plt.ylabel('Number Of Stations')
-    plt.title('Bike Sharing Networks by Number of Stations')
+    plt.title('City Bike Sharing Networks by Number of Stations')
     logging.info("Done with plot_station_count")
     return plt
  except Exception as e:
