@@ -6,3 +6,6 @@ pandas
 numpy
 seaborn
 plotly
+streamlit
+pycountry
+matplot
