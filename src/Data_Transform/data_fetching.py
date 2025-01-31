@@ -39,7 +39,7 @@ def fetch_all_station_data(network_ids):
     
 def read_network_ids_from_csv(file_path):
  try:
-    df = pd.read_csv(file_path,nrows=9)
+    df = pd.read_csv(file_path,nrows=10)
     network_id=[]
     network_id= df['id'].tolist()
     logging.info("read the first 10 network Ids from the Csv file")
