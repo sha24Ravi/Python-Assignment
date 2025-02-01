@@ -8,4 +8,4 @@ plotly
 pycountry
 matplotlib
 aiohttp
-python3-tk
+tk==0.1.0
