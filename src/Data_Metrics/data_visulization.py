@@ -9,7 +9,7 @@ from src.exception import CustomeException
 from src.loggers import logging
 import sys
 import pycountry
-matplotlib.use('TkAgg')
+#matplotlib.use('TkAgg')
 
 # Create the main window
 
