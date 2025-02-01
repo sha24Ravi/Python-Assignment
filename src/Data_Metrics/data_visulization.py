@@ -4,7 +4,7 @@ from dataclasses import dataclass
 import streamlit as st
 import matplotlib.pyplot as plt
 import matplotlib
-matplotlib.use('TkAgg')
+#matplotlib.use('TkAgg')
 from src.exception import CustomeException
 from src.loggers import logging
 import sys
