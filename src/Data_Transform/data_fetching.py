@@ -64,7 +64,7 @@ async def fetch_network_data(session, network_id):
 
 async def fetch_all_network_data():
   try:  
-    network_ids = read_network_ids_from_csv("data/city_bike.csv")
+    network_ids = read_network_ids_from_csv("src/data/city_bike.csv")
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_network_data(session, network_id) for network_id in network_ids]
         results = await asyncio.gather(*tasks)  # Run tasks concurrently
@@ -155,7 +155,7 @@ def  get_network_data_for_average():
 
 def get_network_by_country(): 
  try: 
-     file_path="data/network_country.csv"
+     file_path="src/data/network_country.csv"
      df = pd.read_csv(file_path,nrows=9)
      df['country_name'] = df['country'].apply(get_country_name)
      return df

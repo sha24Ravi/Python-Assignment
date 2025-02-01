@@ -4,11 +4,16 @@ from dataclasses import dataclass
 import streamlit as st
 import matplotlib.pyplot as plt
 import matplotlib
+import tkinter as tk
 matplotlib.use('TkAgg')
 from src.exception import CustomeException
 from src.loggers import logging
 import sys
 import pycountry
+matplotlib.use('TkAgg')
+
+# Create the main window
+
 
 
 
