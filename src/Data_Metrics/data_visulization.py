@@ -20,7 +20,7 @@ def plot_station_count(processed_data):
  try:  
     df=pd.DataFrame(processed_data)
     x=df['name']
-    y=df['station_count']  
+    y=df['Station count']  
     plt.bar(x, y, color ='skyblue',
         align='center', width=0.3) 
     plt.xticks(rotation=60, fontsize = 'small')
@@ -38,7 +38,7 @@ def generate_summary_stats(processed_data):
    
     
     df = pd.DataFrame(processed_data)
-    data = df.groupby('country_name')['station_count'].mean()
+    data = df.groupby('Country name')['Station count'].mean()
     logging.info("Done with generate_summary_stats")
     return data 
     
@@ -50,12 +50,21 @@ def pie_chart_by_country(processed_data):
   try: 
     
     data = pd.DataFrame(processed_data)
-    df = pd.DataFrame(data, columns=["name", "city", "country","country_name"])
+    df = pd.DataFrame(data, columns=["name", "city", "country","Country name"])
     print(df)
-    country_distribution = df['country_name'].value_counts()
+    country_distribution = df['Country name'].value_counts()
     fig, ax = plt.subplots()
-    ax.pie(country_distribution.values, labels=country_distribution.index,autopct='%.2f')
+    ax.pie(country_distribution.values, labels=country_distribution.index,
+           autopct='%.0f%%',
+          wedgeprops={"linewidth" : 2.0, "edgecolor": "white"},
+         textprops={'size': 'xx-large'})
     ax.set_title("Networks with respect to Country")
+  
+
+    #plt.tight_layout()
+
+    #plt.legend(labels=country_distribution.index, loc='best')
+   
     logging.info("Done with pie_chart_by_country")
     st.pyplot(plt)
     

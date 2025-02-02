@@ -116,7 +116,7 @@ def cal_station_count(processed_data):
                 'country': country,
                 'latitude': latitude,
                 'longitude': longitude,
-                'station_count': station_count,
+                'Station count': station_count,
             })
            
         except Exception as e:
@@ -137,7 +137,7 @@ def get_network_data():
      station_data=cal_station_count(all_network_data)
      if station_data:
        df=pd.DataFrame(station_data)
-       df['country_name'] = df['country'].apply(get_country_name)
+       df['Country name'] = df['country'].apply(get_country_name)
        print(df)
        return df
  except Exception as e:
@@ -157,7 +157,7 @@ def get_network_by_country():
  try: 
      file_path="src/data/network_country.csv"
      df = pd.read_csv(file_path,nrows=9)
-     df['country_name'] = df['country'].apply(get_country_name)
+     df['Country name'] = df['country'].apply(get_country_name)
      return df
  except Exception as e:
             raise CustomeException(e,sys)    

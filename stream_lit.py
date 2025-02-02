@@ -46,13 +46,25 @@ def show_dashboard():
     country_with_most = average_data.idxmax()
     st.write(f"Country with the highest number of stations: {country_with_most}")
 
-    largest_network = max(processed_data, key=lambda x: x['station_count'])
-    st.write(f"Network with largest number of stations: {largest_network['name']} with {largest_network['station_count']} stations")
+    largest_network = max(processed_data, key=lambda x: x['Station count'])
+    st.write(f"Network with largest number of stations: {largest_network['name']} with {largest_network['Station count']} stations")
     
     st.subheader('Network Distribution by Country',divider=True)
     pie_chart_by_country(network_by_country_data)
     
+    st.title("Refresh Data for live Data")
 
+    # Generate or retrieve the DataFrame
+    if 'data' not in st.session_state:
+        st.session_state.data = get_network_data()
+
+    # Display the DataFrame
+    st.dataframe(st.session_state.data)
+
+    # Add a refresh button
+    if st.button("Refresh"):
+        # Read the DataFrame store it in session_state
+        st.session_state.data = get_network_data()
     
     
     
